@@ -1,0 +1,27 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+#countable{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family:  Helvetica;
+}
+
+#BtnContainer{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: black;
+    background-color:palevioletred;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:background-color 0.25s ;
+
+}
+.button:hover{
+    background-color: beige;
+}
